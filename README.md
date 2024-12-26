@@ -1,9 +1,6 @@
 lipsum-dart
 ===========
 
-[![Build Status](https://travis-ci.com/adaptant-labs/lipsum-dart.svg?branch=master)](https://travis-ci.com/adaptant-labs/lipsum-dart#)
-[![Pub](https://img.shields.io/pub/v/lipsum.svg)](https://pub.dartlang.org/packages/lipsum)
-
 Generate [Lorem-Ipsum](https://en.wikipedia.org/wiki/Lorem_ipsum) to populate your app with text.
 
 ## Usage
