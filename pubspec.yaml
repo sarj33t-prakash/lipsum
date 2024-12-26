@@ -1,0 +1,20 @@
+name: lipsum
+
+version: 1.0.2
+
+description: >
+  A simple lorem ipsum text generator. Based off of Andres Araujo's lorem-dart plugin.
+
+maintainer: Sarjeet Sandhu
+
+# Credits Original Author - Adaptant Labs <labs@adaptant.io>
+
+homepage: https://github.com/sarj33t-prakash/lipsum
+
+#  was originally published at https://github.com/adaptant-labs/lipsum-dart
+
+environment:
+  sdk: ^3.6.0
+
+dev_dependencies:
+  test: ^1.25.14
